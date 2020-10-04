@@ -159,7 +159,7 @@
 -kemayakr
 - Celia
 - WD
--Srishti 
+-Srishti Singh
   Adarsh Goyal
 - [Pranjal Singh] (https://github.com/pranjal2000)
 - Derryl Kevin Monis
